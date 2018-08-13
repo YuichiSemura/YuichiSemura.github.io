@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## ようこそ
+どうもこんにちは！　瀬村 雄一と申します！  
+今日はデットバイデイライトやっていきます！　よろしくおねがいします！
 
-You can use the [editor on GitHub](https://github.com/YuichiSemura/YuichiSemura.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 略歴
+2012年3月 兵庫県立長田高等学校 卒業  
+2013年4月 大阪大学基礎工学部情報科学科 入学  
+2017年3月 大阪大学基礎工学部情報科学科 卒業  
+2017年4月 大阪大学大学院情報科学研究科コンピュータサイエンス専攻 入学  
+以後，ソフトウェア工学に関する研究に従事する  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 研究テーマ
+コードクローン・ソフトウェア保守
 
-### Markdown
+### 研究会・学会など
+[情報処理学会のやつ3つ](https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_view_main_item_snippet&pn=1&count=20&order=16&lang=japanese&creator=yuichi+semura&page_id=13&block_id=8)  
+[APSEC2017のやつ](https://ieeexplore.ieee.org/document/8305997/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ゲーム・マイブームなど
+#### Splatoon
+無印カンスト，ウデマエX  
+好きなルール：ガチヤグラ  
+好きなブキ：無印カーボン（神），2クラッシュブラスター  
+好きなステージ：無印Bバス，2フジツボ
 
-```markdown
-Syntax highlighted code block
+#### Dead by Daylight
+Killer,Survivor ともにランク1  
+好きな生存者：メグ・トーマス  
+好きな殺人鬼：ヒルビリー  
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuichiSemura/YuichiSemura.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Twitter・ブログなど
+載せるか悩んでいます
