@@ -1,6 +1,8 @@
 # ようこそ
 
-瀬村雄一の当たり障りのない自己紹介です。
+瀬村雄一の当たり障りのない自己紹介です。よろしくお願いします。
+
+当たり障りのある自己紹介もどうぞ [biography](https://yuichisemura.github.io/fourteenagerlab/biography.html)
 
 ## 略歴
 
@@ -11,24 +13,25 @@
 
 ## 技術
 
+何の技術を極めるか、そろそろ方針を決めたいところです。
+
 `やっぱり何もわからん　> わからん > 何もわからん`
 
 ### やっぱり何もわからん
 
 「何回も使ったことはあるけど、やっぱり何もわからん」
 
-- Java、Spring Framework
-- HTML, CSS, JavaScript、
-  - Bootstrap, three.js
+- Java, Spring Boot
+- HTML, CSS, JavaScript
+  - SCSS, Bootstrap, three.js
 - Python
-- Docker
 - テスト自動化, CI/CD, Jenkins
 
 ### わからん
 
 「何かで使ったことがあるぐらいだから、わからん」
 
-- Kubernetes
+- Docker, Kubernetes
 - 自然言語処理、機械学習
 - MongoDB
 - Flask
@@ -40,14 +43,15 @@
 「興味があって個人で勉強するくらいじゃ、何もわからん」
 
 - ゲームプログラミング
+- Vue.js, Vuetify
+- React
+- C, C#, C++
 - Haskell
-- Vue.js
-- Web（Webpack, node.js, SCSS）
-- C, C++
 
 ## 資格
 
-応用情報技術者しかない。
+- 応用情報技術者
+- データベーススペシャリスト
 
 ## 研究テーマ
 
@@ -65,7 +69,8 @@
 ## 趣味
 
 - ゲーム（後述） 
-- 料理（初心者）、カレー食べる 
+- 料理（初心者）
+- カレー食べる 
 - プログラミング
 - 文章を書く
 - 中学受験算数（最近やってない）、久しぶりにガキンチョと戯れたい
@@ -76,7 +81,8 @@ Splatoon、Dead by Daylight、Shadowverse を相変わらずやってます。3�
 
 ### Splatoon
 
-無印カンスト，ウデマエX
+- 無印: カンスト
+- 2: ウデマエX
 
 ### Dead by Daylight
 
@@ -111,7 +117,14 @@ Splatoon、Dead by Daylight、Shadowverse を相変わらずやってます。3�
 
 ## 公開中のなにか
 
-作ったものを集めたページを作成予定です。
+詳細はこちらで [product](https://yuichisemura.github.io/fourteenagerlab/products.html)
+
+### CCFinderSW
+
+井上研究室時代にコツコツ作ってたツールです。  
+もっとちゃんと作ればよかったー！！！    
+もう手は加えないはずです。問い合わせは以下の連絡先まで。  
+[CCFinderSW](https://github.com/YuichiSemura/CCFinderSW)
 
 ### JKTWR BATTLE!!
 
@@ -123,13 +136,6 @@ Splatoon、Dead by Daylight、Shadowverse を相変わらずやってます。3�
 研究室の同期 5 人で作ったゲームです。ページは載せません。  
 Android用ですが端末依存のバグが相当多く困ってしまい、バグ修正を断念いたしました。  
 機会があれば、バグ修正・リメイクを行いたいと思ってます。
-
-### CCFinderSW
-
-井上研究室時代にコツコツ作ってたツールです。  
-もっとちゃんと作ればよかったー！！！    
-もう手は加えないはずです。問い合わせは以下の連絡先まで。  
-[CCFinderSW](https://github.com/YuichiSemura/CCFinderSW)
 
 ## 連絡先
 
